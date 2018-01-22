@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-chat-app",
+  "version": "1.0.0",
+  "description": "NodeJs Chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarunkumar2215/nodejs-chat-app.git"
+  },
+  "author": "Tarun Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarunkumar2215/nodejs-chat-app/issues"
+  },
+  "homepage": "https://github.com/tarunkumar2215/nodejs-chat-app#readme",
+  "dependencies": {
+    "socket.io": "^2.0.4"
+  }
+}
